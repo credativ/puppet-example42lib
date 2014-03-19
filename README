@@ -5,4 +5,11 @@ Its basically just a fork of
 
 https://github.com/example42/puppi
 
-reduce to the lib files.
+reduced to the lib files.
+
+Installation:
+-------------
+If you are using puppet-librarian, simply add:
+
+mod 'example42lib', :git => 'git://github.com/credativ/puppet-example42lib.git'
+
