@@ -1,0 +1,6 @@
+puppet-module-example42lib for Debian
+---------------------------------------
+
+This puppet module has been packaged with dh-make-puppet.
+
+ -- Patrick Schoenfeld <patrick.schoenfeld@credativ.de>, Tue, 20 May 2014 11:38:24 +0200
