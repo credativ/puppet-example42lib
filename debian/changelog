@@ -1,3 +1,9 @@
+puppet-module-example42lib (2.1.9.1) UNRELEASED; urgency=low
+
+  * Fix install path
+
+ -- Patrick Schoenfeld <patrick.schoenfeld@credativ.de>  Wed, 21 May 2014 09:09:57 +0200
+
 puppet-module-example42lib (2.1.9) unstable; urgency=low
 
   * Initial release.
