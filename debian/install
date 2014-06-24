@@ -1,2 +1,2 @@
-lib   etc/puppet/modules/example42lib
+lib   usr/share/puppet/modules.available/example42lib
 
