@@ -1,3 +1,9 @@
+puppet-module-example42lib (2.1.9.4) unstable; urgency=medium
+
+  * Fix changelog for 2.1.9.3
+
+ -- Maximilian Gaß <maximilian.gass@credativ.de>  Wed, 09 Nov 2016 13:28:41 +0000
+
 puppet-module-example42lib (2.1.9.3) unstable; urgency=medium
 
   * Add/Update common module files
