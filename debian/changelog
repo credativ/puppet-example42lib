@@ -1,8 +1,8 @@
-puppet-module-example42lib (2.1.9.3) UNRELEASED; urgency=medium
+puppet-module-example42lib (2.1.9.3) unstable; urgency=medium
 
   * Add/Update common module files
 
- -- Patrick Schoenfeld <patrick.schoenfeld@credativ.de>  Fri, 24 Jun 2016 15:13:11 +0000
+ -- Patrick Schoenfeld <patrick.schoenfeld@credativ.de>  Wed, 09 Nov 2016 13:28:17 +0000
 
 puppet-module-example42lib (2.1.9.2) unstable; urgency=low
 
